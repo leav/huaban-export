@@ -1,0 +1,4 @@
+.vscode/
+exports/
+*.log
+main.exe
